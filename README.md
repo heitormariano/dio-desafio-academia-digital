@@ -1,4 +1,4 @@
-# Respositório do desafio sobre Spring Data JPA
+# Repositório do desafio sobre Spring Data JPA
 
 ## Resumo
 
@@ -8,7 +8,7 @@ O projeto faz parte da trilha **Ganhando Produtividade com Spring Framework** do
 
 ## Objetivos
 
-- Definnir estrutura do projeto (pacotes específicos e suas entidades)
+- Definir estrutura do projeto (pacotes específicos e suas entidades)
 - Aplicar conceitos de mapeamento objeto relacional (ORM) usando o Spring Data JPA
 - Implementar uma API Rest para uma academia digital fictícia
 - Testar os serviços (endpoints) da API por meio do Postman
